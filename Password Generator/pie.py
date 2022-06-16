@@ -15,17 +15,5 @@ def generate():
     print("Your generated password: "+password)
     result.element.text = generate()
 
-# languages = [
-#     "Python",
-#     "C++",
-#     "JavaScript",
-#     "Ruby",
-#     "PHP"
-# ]
-
-# print(len(languages))
-
-
-
 
 
